@@ -11,4 +11,4 @@ Welcome to the Marketplace project! This web application, developed using the Dj
 
 - **Python**: Programming language used for the backend.
 - **Django**: Web framework used to build the application.
-- **SQLite**: Default database engine used for development. (You can switch to other databases like PostgreSQL or MySQL in production.)
+- **SQLite**: Default database engine used for development.
